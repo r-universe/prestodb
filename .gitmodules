@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RPresto"]
 	path = RPresto
 	url = https://github.com/prestodb/rpresto
-	shallow = true
-	registered = true
